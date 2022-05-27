@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @teberouou
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
+- 📫 Contact information - teberoguzorhun@gmail.com
